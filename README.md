@@ -1,5 +1,5 @@
 ![](banner.png)
-###### Hi 👋, I'm James D. Pérez
+# Hi 👋, I'm James D. Pérez
 
 <!--
 **jperezdev/jperezdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
