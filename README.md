@@ -1,4 +1,4 @@
-![](webDevbanner.png)
+![](banner.png)
 
 <h1 align="center"> Hi 👋, I'm James D. Pérez</h1>
 
