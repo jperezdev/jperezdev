@@ -2,5 +2,5 @@
 
 <h1 align="center"> Hi 👋, I'm James D. Pérez</h1>
 
-<p align="center">I am a recent information systems graduate. Passionate about web development and computer science in general, willing to learn and contribute my knowledge in the industry.</p>
+<p align="center">I am passionate about web development and software engineering, with a strong interest in building efficient, scalable, and user-focused applications. I enjoy learning new technologies, improving my technical skills, and contributing innovative solutions that create real value for organizations. My goal is to continue growing as a developer while collaborating in projects that combine technology, creativity, and continuous improvement.</p>
 
